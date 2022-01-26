@@ -16,6 +16,7 @@ Student @ ShanghaiTech University
 
 * ⚒️ C++ / Python / Java
 * 🔭 Working on Robotics
+* 📸 Like Photography
 * 🍟🍔🍕🌭🍿🥓 Love delicious food!
 
 #### Tools
