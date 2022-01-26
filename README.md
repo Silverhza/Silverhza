@@ -3,7 +3,7 @@
 -->
 
 ## Welcome 👋
-<a href="https://github.com/MercurialJD">
+<a href="https://github.com/Silverhza">
 <img
   src="https://github-readme-stats.vercel.app/api?username=Silverhza&count_private=true&theme=vue"
   title="Silverhza&#039;s GitHub Stats"
