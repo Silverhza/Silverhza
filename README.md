@@ -1,6 +1,8 @@
 <!--
 **Silverhza/Silverhza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+## Welcome 👋
 <a href="https://github.com/MercurialJD">
 <img
   src="https://github-readme-stats.vercel.app/api?username=Silverhza&count_private=true&theme=vue"
