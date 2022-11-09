@@ -12,7 +12,7 @@
 />
 </a>
 
-Student @ ShanghaiTech University
+Student @ UIUC
 
 * ⚒️ C++ / Python / Java
 * 🔭 Working on Robotics
