@@ -5,7 +5,7 @@
 ## Welcome 👋
 <a href="https://github.com/Silverhza">
 <img
-  src="https://github-readme-stats-q7ag2if66-silverhza.vercel.app/api?username=Silverhzae&theme=vue"
+  src="https://github-readme-stats-q7ag2if66-silverhza.vercel.app/api?username=Silverhza&theme=vue"
   title="Silverhza&#039;s GitHub Stats"
   align="right"
   width="60%"
