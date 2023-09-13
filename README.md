@@ -12,6 +12,14 @@
 />
 </a>
 
+<a href="https://github.com/Silverhza">
+<img
+  src="https://github-readme-stats-q7ag2if66-silverhza.vercel.app/api/top-langs/?username=Silverhza&layout=compact&theme=buefy&hide_border=true"
+  title="Most Used Languages"
+  align="right"
+  width="60%"
+/>
+
 Student @ UIUC
 
 * ⚒️ C++ / Python / Java
