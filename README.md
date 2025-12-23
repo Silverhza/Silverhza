@@ -3,11 +3,9 @@
 -->
 ## Welcome 👋
 
-Student @ UIUC
+Student @ SJTU, UIUC Alumni
 
-- 💼 BackEnd Developer at [dPO Technologies](https://dinxsolutions.com/dpo/)
-
-- 🔭 Working on Node.js
+- 🔭 Working on Computer Architecture
 
 - 📸 Like Photography
 
