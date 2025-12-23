@@ -3,7 +3,7 @@
 -->
 ## Welcome 👋
 
-Student @ SJTU, UIUC Alumni
+PhD Student @ SJTU, UIUC Alumni
 
 - 🔭 Working on Computer Architecture
 
